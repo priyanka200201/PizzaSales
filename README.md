@@ -2,6 +2,8 @@
 
 Welcome to our Excel Dashboard project! This dashboard is not just visually appealing but also highly functional, incorporating powerful features like pivot tables, power queries, data cleaning, data visualization, and data transformation. Here's a guide to help you understand and make the most out of this project.
 
+Managed marketing expenses efficiently by targeting high-conversion time slots, utilizing SQL for KPI analysis and MS Excel for dashboard creation, highlighting analytical expertise.
+
 ## Introduction
 This Excel Dashboard project showcases the power of data manipulation and visualization using Excel's advanced features. Whether you're a data analyst, business professional, or just someone interested in exploring data, this dashboard provides valuable insights in a user-friendly manner.
 
